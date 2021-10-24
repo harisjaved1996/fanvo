@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="50" viewBox="0 0 71 50">
+  <g id="Video_card_" data-name="Video (card)" transform="translate(-995 -1134)">
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(995 1134)" stroke="#fff" stroke-width="1">
+      <rect width="71" height="50" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="70" height="49" rx="9.5" fill="none"/>
+    </g>
+    <path id="Polygon_1" data-name="Polygon 1" d="M10.076,1.619a1,1,0,0,1,1.758,0L21.108,18.7a1,1,0,0,1-.879,1.477H1.681A1,1,0,0,1,.8,18.7Z" transform="translate(1042.18 1148.846) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.36" height="53.734" viewBox="0 0 48.36 53.734">
+  <g id="Icon_Personalised_plans" data-name="Icon/Personalised plans" transform="translate(-8.754 -5.836)">
+    <g id="Calendar" transform="translate(8.754 5.836)">
+      <path id="Fill_1" data-name="Fill 1" d="M13.775,34.237C5.361,34.237,0,28.944,0,20.454V0H48.36V20.618c0,8.432-5.308,13.618-13.8,13.618Z" transform="translate(0 19.497)" fill="#fff"/>
+      <path id="Fill_4" data-name="Fill 4" d="M0,15.494A42.6,42.6,0,0,1,.417,9.78C1.691,4.113,6.017.513,12.2,0H36.143c6.131.54,10.511,4.164,11.785,9.78a42.7,42.7,0,0,1,.414,5.715Z" transform="translate(0.009 4.003)" fill="#fff" opacity="0.4"/>
+      <path id="Fill_6" data-name="Fill 6" d="M2.044,12.332a2.006,2.006,0,0,0,2.044-2.069V2.071A2.009,2.009,0,0,0,2.044,0,2.009,2.009,0,0,0,0,2.071v8.192a2.006,2.006,0,0,0,2.044,2.069" transform="translate(12.209 0)" fill="#fff"/>
+      <path id="Fill_9" data-name="Fill 9" d="M2.044,12.332a2.022,2.022,0,0,0,2.044-2.069V2.071A2.025,2.025,0,0,0,2.044,0,2.009,2.009,0,0,0,0,2.071v8.192a2.006,2.006,0,0,0,2.044,2.069" transform="translate(32.064 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

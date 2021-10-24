@@ -1,0 +1,49 @@
+.timeline {
+  position: relative;
+}
+
+/*Line*/
+.timeline > li::before {
+  content: "";
+  position: absolute;
+  width: 3px;
+  background-color: #222222;
+  top: 0;
+  bottom: 0;
+  left: -19px;
+}
+
+/*Circle*/
+.timeline > li::after {
+  background-image: url("../assets/timeline_1.png");
+  background-repeat: no-repeat;
+  /* border: 3px solid #f24162; */
+  text-align: center;
+  padding-top: 10px;
+  z-index: 10;
+  color: white;
+
+  width: 50px;
+  height: 43px;
+  border: 3px solid F24162;
+  background-color: white;
+  /* border-radius: 50%; */
+  top: 0;
+  content: "";
+  position: absolute;
+  left: -39px;
+}
+
+/*Content*/
+.timeline > li {
+  counter-increment: item;
+  padding: 10px 10px;
+  margin-left: 0px;
+  min-height: 70px;
+  position: relative;
+  background-color: white;
+  list-style: none;
+}
+.timeline > li:nth-last-child(1)::before {
+  width: 0px;
+}
